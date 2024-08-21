@@ -1,4 +1,4 @@
-# User-Engagement-and-Churn-Analysisntroduction:
+# User-Engagement-and-Churn-Analysis:
 Understanding User Engagement Patterns and Perform Churn Analysis and Mitigating User Churn in a Digital Classroom Platform The dataset provided includes information about user interactions, specifically the guardian's unique ID, the timestamp of messages sent, and the type of messages. The analysis aims to derive actionable insights for improving user retention.
 
 Work Process
